@@ -1,0 +1,61 @@
+{
+  "parameters": {
+    "BANNER_HUAWEI": {
+      "defaultValue": {
+        "value": "REWARDED_HUAWEI"
+      },
+      "valueType": "STRING"
+    },
+    "REWARDED_HUAWE": {
+      "defaultValue": {
+        "value": "REWARDED_HUAWE"
+      },
+      "valueType": "STRING"
+    },
+    "INTERSTITIAL_HUAWEI": {
+      "defaultValue": {
+        "value": "INTERSTITIAL_HUAWEI"
+      },
+      "valueType": "STRING"
+    },
+    "ADS_PROVIDER": {
+      "defaultValue": {
+        "value": "1"
+      },
+      "valueType": "STRING"
+    },
+    "ADS_VIDEO": {
+      "defaultValue": {
+        "value": "2"
+      },
+      "valueType": "STRING"
+    },
+    "INTERSTITIAL_YANDEX": {
+      "defaultValue": {
+        "value": "5"
+      },
+      "valueType": "STRING"
+    },
+    "REWARED_YANDEX": {
+      "defaultValue": {
+        "value": "4"
+      },
+      "valueType": "STRING"
+    },
+    "BANNER_YANDEX": {
+      "defaultValue": {
+        "value": "3"
+      },
+      "valueType": "STRING"
+    }
+  },
+  "version": {
+    "versionNumber": "4",
+    "updateTime": "2024-11-09T17:09:51.077329Z",
+    "updateUser": {
+      "email": "nemlihamza@gmail.com"
+    },
+    "updateOrigin": "CONSOLE",
+    "updateType": "INCREMENTAL_UPDATE"
+  }
+}
